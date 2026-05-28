@@ -10,6 +10,7 @@ class MainTest {
     void mainTest() {
         assertTrue(true);
     }
+
     @Test
     void mainTest2() {
         assertTrue(true);
